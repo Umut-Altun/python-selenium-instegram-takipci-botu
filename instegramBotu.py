@@ -1,8 +1,10 @@
 from selenium import webdriver
-from getUser import username,password
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
+
+username = ""
+password = ""
 
 class Instegram:
 #---- 1.bolum ----
