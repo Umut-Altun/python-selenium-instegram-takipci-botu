@@ -12,8 +12,8 @@ Takipçileri Kaydetme: Takipçilerinizi bir dosyaya kaydeder.
 🛠 Kullanılan Teknolojiler
 Python: Ana programlama dili.
 Selenium: Web sayfaları üzerinde otomatik testler ve işlemler gerçekleştirmek için kullanılır.
-
 time: İşlemler arasında gecikme süresi ayarlamak için kullanılır.
+
 📖 Proje Adımları
 Gereksinimlerin Yüklenmesi: Gerekli kütüphanelerin yüklenmesi.
 ChromeDriver'ın Ayarlanması: Selenium'un Chrome tarayıcısını kontrol edebilmesi için gerekli sürümün indirilmesi.
